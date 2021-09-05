@@ -1,5 +1,5 @@
 {
-    "name": "toist-net/smarty",
+    "name": "smarty/smarty",
     "type": "library",
     "description": "Smarty - the compiling PHP template engine",
     "keywords": [
